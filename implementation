@@ -1,3 +1,14 @@
+WORKFLOW
+Search for restaurants based on the cuisines type, menu items, etc.
+Create a cart, add menu items to the cart and order.
+Receive notifications about the status of an order once placed.
+Track the status of the order on the app.
+Cancel the order.
+Pay for the order.
+
+
+
+IMPLEMENTATION
 create a file on the desktop.
 run the code
 add password(given in the code)
