@@ -17,16 +17,23 @@ The page where the product/menu is listed and can be managed by the admin.
 System Settings
 The page where an admin configures the website data.
 
+
 #Default Admin Access:
+
 USERNAME: admin
 
 PASSWORD: "codechamp"
 
 
 
+
 #Description:-
 The Application consists of two interfaces, one being the customer interface and
 admin panel as the other.
+
+
+
+
 
 Features provided for the customers :
 
