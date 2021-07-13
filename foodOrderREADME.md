@@ -22,3 +22,27 @@ USERNAME: admin
 
 PASSWORD: "codechamp"
 
+
+
+#Description:-
+The Application consists of two interfaces, one being the customer interface and
+admin panel as the other.
+
+Features provided for the customers :
+
+􀀀 Displays the food item list along with their price, quantity and the stock available.
+􀀀 The customer needs to enter the food serial number and the quantity desired thus
+displaying their total cart price.
+􀀀 If they wish to order more, they could go back and choose again. Two way payment
+options are made available i.e Cash and Credit. This will take their card number and
+pin which will not be saved by us.
+
+
+Features provided for the admin panel :
+
+􀀀 Add a food item or delete it from the menu. To ensure that the item is added
+accordingly, we have an option for the instant food list. Item counter displays the
+number of food items available.
+􀀀 Backing up the data and Instant Order Preview displays the food item along with the
+quantity remaining.
+
